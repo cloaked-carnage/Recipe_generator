@@ -5,7 +5,7 @@ Steps:
    git clone https://github.com/cloaked-carnage/Recipe-generator.git
 3. Install the required dependencies:
    pip install groq gradio
-4. Run the python code
+4. Run the python code:
    python app.py
 5. The program will prompt you to enter a list of vegetables. For example:
    Enter vegetables (separate them by commas): carrot, tomato, spinach
